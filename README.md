@@ -1,5 +1,10 @@
 # Vomit
 Aims at detecting vomit.
+Videos used for testing the trained model is the folder VideosforTesting.
+Demo video is attached (in the Submission2 folder).
+Trained model could be downloaded using Google Drive: https://drive.google.com/drive/folders/1hVr6rYye7B0ZdK8dg9mwjp28-osTqrqj
+Instructions of executing the code is attached in the report (in the Submission2 folder)
+
 1. Try to generate training dataset by processing the vomit video and labeling the generated images.
 2. Try to train the network and plot the accuracy vs. time.
 3. Meet problems while loading the trained model.
